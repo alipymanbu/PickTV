@@ -1,22 +1,23 @@
 # PickTV
 
-PickTV 基于 [FongMi/TV](https://github.com/FongMi/TV) 开发。
+本仓库是「PickTV」的安卓版本获取入口，附使用资料索引。
 
-这个仓库主要用来保留项目来源和原始代码，方便后续对照与继续开发。这里放的是原版开源代码，不是我们当前实际使用、维护或对外分发的修改版本。
+## 安装文件资源（夸克网盘）
 
-我们这边做过的工作比较有限，主要是部分 UI 布局调整，以及少量适配层面的修改，整体仍然建立在原项目基础之上。
+> **PickTV 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8042a54b524d](https://pan.quark.cn/s/8042a54b524d)
 
-感谢 [FongMi/TV](https://github.com/FongMi/TV) 原作者和所有贡献者。
+## 官方项目
 
-## 说明
+- 上游项目：[hlh2518/PickTV](https://github.com/hlh2518/PickTV)
 
-- 上游项目：<https://github.com/FongMi/TV>
-- 开源协议：`GPL-3.0`
+## 更多资料
 
-如果你是通过某个安装包、二次封装版本，或者其他平台的宣传内容找到这个仓库，需要注意：这里并不是我们成品版本的完整源码。
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/PickTV/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/PickTV/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [影视源接口怎么配置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/PickTV/%E5%BD%B1%E8%A7%86%E6%BA%90%E6%8E%A5%E5%8F%A3%E6%80%8E%E4%B9%88%E9%85%8D%E7%BD%AE.md)
+- [点播与直播操作指南](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/PickTV/%E7%82%B9%E6%92%AD%E4%B8%8E%E7%9B%B4%E6%92%AD%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-任何第三方基于本仓库自行编译、修改、封装、预装、内置或分发所产生的问题，与本仓库无关。
+---
 
-目前我们也没有授权任何公众号、自媒体、社群、网站、店铺或其他渠道，以“官方合作”“官方授权”“同源定制”等名义对本项目进行宣传或推广。相关说法请自行甄别，由此产生的问题也与本仓库无关。
-
-本仓库代码的使用、修改和再分发，请遵循上游项目所适用的开源协议。
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/hlh2518/PickTV)。
